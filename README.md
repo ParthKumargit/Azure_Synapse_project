@@ -1,1 +1,1 @@
-# Azure_Synapse_project
+# azure-data-engineer-projects
